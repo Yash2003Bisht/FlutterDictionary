@@ -1,6 +1,6 @@
 # dictionary
 
-A basic dictionary application
+A basic dictionary application update
 
 ## Getting Started
 
